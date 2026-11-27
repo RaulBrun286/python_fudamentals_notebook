@@ -14,6 +14,12 @@ La carpeta `notebooks` contiene apuntes organizados por temas. Estos recursos si
 - Experimentar con estructuras de datos, funciones y control de errores.
 - Practicar técnicas habituales de programación.
 
+## Recursos del repositorio
+
+- `notebooks/`: notebooks de Jupyter utilizados para el aprendizaje y la documentación de los conceptos.
+- `src/`: módulos y scripts de Python utilizados e importados desde algunos notebooks.
+- `images/`: imágenes y otros recursos visuales que acompañan las explicaciones de los notebooks.
+
 ## Requisitos
 
 Necesitas tener instalado:
@@ -29,3 +35,4 @@ Instala Jupyter Notebook desde un terminal:
 
 ```bash
 python -m pip install notebook
+```
